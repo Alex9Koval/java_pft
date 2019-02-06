@@ -13,3 +13,12 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 .idea/workspace.xml
+sandbox/gradle/wrapper/gradle-wrapper.properties
+sandbox/out/production/classes/MyCode.class
+sandbox/out/production/classes/ua/stqa/pft/sandbox/MyCode.class
+sandbox/out/production/classes/MyCode.class
+sandbox/src/main/java/MyCode.java
+sandbox/gradle/wrapper/gradle-wrapper.properties
+sandbox/gradle/wrapper/gradle-wrapper.properties
+sandbox/gradle/wrapper/gradle-wrapper.properties
+sandbox/out/production/classes/META-INF/sandbox.main.kotlin_module
