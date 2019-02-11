@@ -1,6 +1,6 @@
 package ua.stqa.pft.sandbox;
 
-public class MyCode {
+public class MyCode1 {
 
     public static void main(String[] args) {
 
