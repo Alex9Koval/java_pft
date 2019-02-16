@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cont-web-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/cont-web-tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cont-web-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cont-web-tests.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cont-web-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cont-web-tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/group-web-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/group-web-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/group-web-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/group-web-tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/group-web-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/group-web-tests.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/newcontact-web-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/newcontact-web-tests.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/newcontact-web-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/newcontact-web-tests.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.iml" />

@@ -6,6 +6,8 @@
       <module name="addressbook-web-test.test" target="1.8" />
       <module name="cont-web-tests.main" target="1.8" />
       <module name="cont-web-tests.test" target="1.8" />
+      <module name="group-web-tests.main" target="1.8" />
+      <module name="group-web-tests.test" target="1.8" />
       <module name="newcontact-web-tests.main" target="1.8" />
       <module name="newcontact-web-tests.test" target="1.8" />
       <module name="sandbox.main" target="1.8" />
