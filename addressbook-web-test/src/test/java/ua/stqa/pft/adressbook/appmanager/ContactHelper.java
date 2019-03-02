@@ -35,4 +35,12 @@ public class ContactHelper extends HelperBase {
     public void addNewContactForm() {
         click(By.linkText("add new"));
     }
+
+    public void editContact() {
+        click(By.name("Edit"));
+    }
+
+    public void updateContact() {
+        click(By.name("update"));
+    }
 }
