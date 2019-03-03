@@ -37,10 +37,22 @@ public class ContactHelper extends HelperBase {
     }
 
     public void editContact() {
-        click(By.name("Edit"));
+        click(By.xpath("//img[@alt='Edit']"));
     }
 
     public void updateContact() {
         click(By.name("update"));
+    }
+
+    public void selectContact() {
+        click(By.id("3"));
+    }
+
+    public void deleteContact() {
+        click(By.xpath("//input[@value='Delete']"));
+    }
+
+    public void closeAlert() {
+        wd.switchTo().alert().accept();
     }
 }

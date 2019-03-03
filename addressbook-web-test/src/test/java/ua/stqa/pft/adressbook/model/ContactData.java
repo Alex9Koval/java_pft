@@ -1,5 +1,7 @@
 package ua.stqa.pft.adressbook.model;
 
+import java.util.Objects;
+
 public class ContactData {
     private final String firstname;
     private final String lastname;
